@@ -1,0 +1,12 @@
+#Estrura de dados 
+# aula01: listas
+# o que é uma lista? é uma ED que armazena, oraganiza qualquer coisa
+
+nomes = ["Leandro","Maycon","Joendes","Marcio","Felipe","Samara","Paulo","Gabriel"]
+notas = ["5","8","2","5"]
+times = ["paysandu","Flamengo", "PSG"]
+compras = ["arroz","feijao","macarao"]
+cesta = ["smartphone","fone","caixinha","fone"]
+
+
+print(cesta)

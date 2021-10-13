@@ -1,0 +1,5 @@
+contato = ['Mille','Elizabeth','Gabriel','Felipe','Leandro']
+    
+for buscar in contato:
+    if buscar == 'Gabriel':
+        print('98877676')

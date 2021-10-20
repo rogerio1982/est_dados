@@ -1,0 +1,12 @@
+
+#aula de est de dados: ordenação
+
+
+a = ("h", "b", "a", "c", "f", "d", "e", "g")
+print (a)
+
+#ordenar ->
+print (sorted(a))
+
+#ordenar <-
+print(sorted(a, reverse=True))

@@ -1,0 +1,15 @@
+#pilhas 
+stack = [3, 4, 5]
+print(stack)
+
+#inserir
+stack.append(6)
+stack.append(7)
+print(stack)
+
+
+#excluir
+stack.pop()
+stack.pop()
+stack.pop()
+print(stack)

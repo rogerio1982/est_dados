@@ -1,0 +1,13 @@
+#filas 
+from collections import deque
+fila = deque(["Eric", "John", "Michael"])
+print(fila)
+
+#inserir
+fila.append("Terry")
+fila.append("Graham")
+
+#excluir
+fila.popleft()
+fila.popleft()
+print(fila) 
